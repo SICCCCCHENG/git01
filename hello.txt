@@ -9,4 +9,6 @@ hello world   master test
 hello world   hot-fix confict  merge test
 hello world
 hello world   changes from github!!
+hello world   
+hello world   changes from git02!! (cloned and modified! from git02)
 
